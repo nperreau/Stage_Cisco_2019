@@ -11,4 +11,7 @@
 - Montage d'un capteur de température et d'humidité sur une *[Raspberry PI 3](https://www.raspberrypi-france.fr/)*
 - Création d'un programme en *[Python](https://fr.wikipedia.org/wiki/Python_(langage))* pour récuperer les donnés du capteur
 - Création d'un programme en *[Python](https://fr.wikipedia.org/wiki/Python_(langage))* pour envoyer ces donnés à un serveur socket       développé aussi en *[Python](https://fr.wikipedia.org/wiki/Python_(langage))*
+
+### 3. MERCREDI
 - Création d'un serveur https et d'une API en *[Python](https://fr.wikipedia.org/wiki/Python_(langage))* afin d'afficher ces donnés avec une interface *[HTML](https://fr.wikipedia.org/wiki/Hypertext_Markup_Language)*
+- Annotation de vidéos afin d'apprendre à une IA comment reconnaitre un humain
