@@ -1,2 +1,5 @@
 # Stage Cisco 2019
 ### Mes créations lors de mon stage d'observation de seconde dans les bureaux de [**Cisco Systems France**](https://www.cisco.com/c/fr_fr/index.html), à _Issy-les-moulineaux, Paris, **France**_ en 2019
+
+#### 1. LUNDI
+- Rencontre avec *Jérémie GARNIER*, mon tuteur de stage
