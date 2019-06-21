@@ -3,5 +3,12 @@
 
 #### 1. LUNDI
 - Rencontre avec __Jérémie GARNIER__, mon tuteur de stage
-- Apprentissage du __Markdown__
+- Apprentissage du langage de balisage __"Markdown"__
 - Apprentissage de l'outil __"Github__" en ligne de commande
+
+
+### 2. MARDI
+- Montage d'un capteur de température et d'humidité sur une *[Raspberry PI 3](https://www.raspberrypi-france.fr/)*
+- Création d'un programme en *[Python](https://fr.wikipedia.org/wiki/Python_(langage))* pour récuperer les donnés du capteur
+- Création d'un programme en *[Python](https://fr.wikipedia.org/wiki/Python_(langage))* pour envoyer ces donnés à un serveur socket       développé aussi en *[Python](https://fr.wikipedia.org/wiki/Python_(langage))*
+- Création d'un serveur https et d'une API en *[Python](https://fr.wikipedia.org/wiki/Python_(langage))* afin d'afficher ces donnés avec une interface *[HTML](https://fr.wikipedia.org/wiki/Hypertext_Markup_Language)*
