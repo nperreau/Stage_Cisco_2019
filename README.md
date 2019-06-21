@@ -15,3 +15,11 @@
 ### 3. MERCREDI
 - Création d'un serveur https et d'une API en *[Python](https://fr.wikipedia.org/wiki/Python_(langage))* afin d'afficher ces donnés avec une interface *[HTML](https://fr.wikipedia.org/wiki/Hypertext_Markup_Language)*
 - Annotation de vidéos afin d'apprendre à une IA comment reconnaitre un humain
+
+### 4. JEUDI
+- Annotation de vidéos afin d'apprendre à une IA comment reconnaitre un humain
+- Formation sur l'utilisation d'un extincteur
+- Elaboration d'un ChatBot en *[JavaScript](https://fr.wikipedia.org/wiki/JavaScript)*
+
+### 5. VENDREDI
+- Amélioration du ChatBot
