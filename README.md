@@ -9,10 +9,7 @@
 
 ### 2. MARDI
 - Montage d'un capteur de température et d'humidité sur une *[Raspberry PI 3](https://www.raspberrypi-france.fr/)*
-image:: https://firebasestorage.googleapis.com/v0/b/np-media-sender.appspot.com/o/15613642997247223921666426513906.jpg?alt=media&token=17be6658-13f3-4f22-ac58-84ebd56b6e61
-  :height: 100px
-  :width: 200 px
-  :scale: 50 %
+![Montage d'un capteur de température et d'humidité sur une Raspberry PI 3](https://firebasestorage.googleapis.com/v0/b/np-media-sender.appspot.com/o/15613642997247223921666426513906.jpg?alt=media&token=17be6658-13f3-4f22-ac58-84ebd56b6e61)
 - Création d'un programme en *[Python](https://fr.wikipedia.org/wiki/Python_(langage))* pour récuperer les donnés du capteur
 - Création d'un programme en *[Python](https://fr.wikipedia.org/wiki/Python_(langage))* pour envoyer ces donnés à un serveur socket       développé aussi en *[Python](https://fr.wikipedia.org/wiki/Python_(langage))*
 
