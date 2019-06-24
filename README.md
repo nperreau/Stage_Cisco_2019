@@ -19,8 +19,7 @@
 
 - Annotation de vidéos afin d'apprendre à une IA comment reconnaitre un humain
 ![Outil d'annotation](https://github.com/nperreau/Stage_Cisco_2019/blob/master/Images/annotation.png)
-
- *Afin de respecter le RGPD, les visages on étés floutés
+ _Afin de respecter le RGPD, les visages on étés floutés_
  
 ### 4. JEUDI
 - Annotation de vidéos afin d'apprendre à une IA comment reconnaitre un humain
