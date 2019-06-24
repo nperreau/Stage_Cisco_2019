@@ -14,7 +14,7 @@
 - Création d'un programme en *[Python](https://fr.wikipedia.org/wiki/Python_(langage))* pour envoyer ces donnés à un serveur socket       développé aussi en *[Python](https://fr.wikipedia.org/wiki/Python_(langage))*
 
 ### 3. MERCREDI
-- Création d'un serveur http et d'une API en *[Python](https://fr.wikipedia.org/wiki/Python_(langage))* afin d'afficher ces donnés avec une interface *[HTML](https://fr.wikipedia.org/wiki/Hypertext_Markup_Language)* (Répertoire weather_Server)
+- Création d'un serveur http et d'une API en *[Python](https://fr.wikipedia.org/wiki/Python_(langage))* afin d'afficher ces donnés avec une interface *[HTML](https://fr.wikipedia.org/wiki/Hypertext_Markup_Language)* (Répertoire weather_server)
 - Annotation de vidéos afin d'apprendre à une IA comment reconnaitre un humain
 
 ### 4. JEUDI
