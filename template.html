@@ -1,0 +1,16 @@
+<html>
+   <head>
+      <meta http-equiv="refresh" content="5" >
+      <title>{{ title }}</title>
+   </head>
+   <body>
+     <h1>Temperature & Humidity</h1>
+     <ul>
+       {% for item in items %}
+         <li>{{ escape(item) }}</li>
+       {% end %}
+     </ul>
+     <input type = "button" value = "Refresh" name="button" >
+   </body>
+ </html>
+
