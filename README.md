@@ -20,7 +20,7 @@
 ### 4. JEUDI
 - Annotation de vidéos afin d'apprendre à une IA comment reconnaitre un humain
 - Formation sur l'utilisation d'un extincteur
-- Elaboration d'un ChatBot en *[JavaScript](https://fr.wikipedia.org/wiki/JavaScript)*
+- Elaboration d'un ChatBot en *[JavaScript](https://fr.wikipedia.org/wiki/JavaScript)* en utilisant un template de DevNet
 
 ### 5. VENDREDI
-- Amélioration du ChatBot
+- Ajout de skills pour le ChatBot
