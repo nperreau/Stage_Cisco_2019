@@ -14,13 +14,13 @@
 - Création d'un programme en *[Python](https://fr.wikipedia.org/wiki/Python_(langage))* pour envoyer ces donnés à un serveur socket       développé aussi en *[Python](https://fr.wikipedia.org/wiki/Python_(langage))*
 
 ### 3. MERCREDI
-- Création d'un serveur http et d'une API en *[Python](https://fr.wikipedia.org/wiki/Python_(langage))* afin d'afficher ces donnés avec une interface *[HTML](https://fr.wikipedia.org/wiki/Hypertext_Markup_Language)* (Répertoire weather_server)
+- Création d'un serveur http et d'une API en *[Python](https://fr.wikipedia.org/wiki/Python_(langage))* afin d'afficher ces donnés avec une interface *[HTML](https://fr.wikipedia.org/wiki/Hypertext_Markup_Language)* (Voir le répertoire weather_server)
 - Annotation de vidéos afin d'apprendre à une IA comment reconnaitre un humain
 
 ### 4. JEUDI
 - Annotation de vidéos afin d'apprendre à une IA comment reconnaitre un humain
 - Formation sur l'utilisation d'un extincteur
-- Elaboration d'un ChatBot en *[JavaScript](https://fr.wikipedia.org/wiki/JavaScript)*
+- Elaboration d'un ChatBot en *[JavaScript](https://fr.wikipedia.org/wiki/JavaScript)* en utilisant un template de DevNet (Voir le répertoire botkit-webex-samples-master)
 
 ### 5. VENDREDI
-- Amélioration du ChatBot
+- Ajout de skills pour le ChatBot
