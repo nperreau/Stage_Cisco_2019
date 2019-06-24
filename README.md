@@ -9,12 +9,13 @@
 
 ### 2. MARDI
 - Montage d'un capteur de température et d'humidité sur une *[Raspberry PI 3](https://www.raspberrypi-france.fr/)*
-![Montage d'un capteur de température et d'humidité sur une Raspberry PI 3](https://firebasestorage.googleapis.com/v0/b/np-media-sender.appspot.com/o/15613642997247223921666426513906.jpg?alt=media&token=17be6658-13f3-4f22-ac58-84ebd56b6e61)
+![Montage d'un capteur de température et d'humidité sur une Raspberry PI 3](https://github.com/nperreau/Stage_Cisco_2019/blob/master/Images/raspbery_PI3.jpg)
 - Création d'un programme en *[Python](https://fr.wikipedia.org/wiki/Python_(langage))* pour récuperer les donnés du capteur
 - Création d'un programme en *[Python](https://fr.wikipedia.org/wiki/Python_(langage))* pour envoyer ces donnés à un serveur socket       développé aussi en *[Python](https://fr.wikipedia.org/wiki/Python_(langage))*
 
 ### 3. MERCREDI
 - Création d'un serveur http et d'une API en *[Python](https://fr.wikipedia.org/wiki/Python_(langage))* afin d'afficher ces donnés avec une interface *[HTML](https://fr.wikipedia.org/wiki/Hypertext_Markup_Language)* (Voir le répertoire weather_server)
+![](https://github.com/nperreau/Stage_Cisco_2019/blob/master/Images/raspbery_PI3.jpg)
 - Annotation de vidéos afin d'apprendre à une IA comment reconnaitre un humain
 
 ### 4. JEUDI
