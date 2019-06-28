@@ -45,15 +45,39 @@ class Info(tornado.web.RequestHandler):
     def get(self):
         global gtemp
         global ghumi
+        global gwater
         logging.info('GET REST API')
         temp = self.get_arguments("temp")
         humi = self.get_arguments("humi")
-        if temp == [] or humi == []:
+        water = self.get_arguments("water")
+        if temp == [] or humi == [] or water == []:
             self.set_status(400)
             return self.finish("Invalid recipe id")
         gtemp = float(temp[0])
         ghumi = float(humi[0])
-        self.write("saved temp={} humi={}".format(gtemp, ghumi))
+        gwater = float(water[0])
+        self.write("saved temp={} humi={} water={}".format(gtemp, ghumi, gwater))
+
+#------------------------------------------------------------------------------
+class Temperature_Handler(tornado.web.RequestHandler):
+    def get(self):
+        global gtemp
+        logging.info('GET REST API')
+        self.write("saved temp={}".format(gtemp))
+
+#------------------------------------------------------------------------------
+class Humidity_Handler(tornado.web.RequestHandler):
+    def get(self):
+        global gtemp
+        logging.info('GET REST API')
+        self.write("saved humidity={}".format(gtemp))
+
+#------------------------------------------------------------------------------
+class Water_Handler(tornado.web.RequestHandler):
+    def get(self):
+        global gtemp
+        logging.info('GET REST API')
+        self.write("saved water={}".format(gtemp))
 
 #------------------------------------------------------------------------------
 def parse_args(args=None):
@@ -78,6 +102,9 @@ def run():
     application = tornado.web.Application([
         (r"/setinfo", Info),
         (r'/', MainHandler),
+        (r"/temperature", Temperature_Handler),
+        (r"/humidity", Humidity_Handler),
+        (r"/water", Water_Handler),
     ])
     signal.signal(signal.SIGINT, stop_server)
 
